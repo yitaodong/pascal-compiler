@@ -1,0 +1,10 @@
+*.pyc          
+*.out               
+parsetab*             
+.DS_Store             
+success.txt              
+*.bc             
+tmp              
+*.o             
+*.p.png              
+*.pdf                 
